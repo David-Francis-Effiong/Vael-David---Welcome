@@ -1,19 +1,19 @@
 <!-- Cover Graphic -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/David-Francis-Effiong/VCS_git_github/main/image/cover.png" width="100%" alt="David F. Effiong - Cover Image">
-</p>
+</p> -->
 
 ### 🌍 Welcome to My GitHub Repository
 
 # 👨🏽‍💻 Hi there!
 
-I'm **David F. Effiong**, a passionate technology professional and lifelong learner who builds solutions at the intersection of **data, software engineering, and digital education**. This repo and others you’ll find here reflect my growth, experiments, open-source contributions, and documentation on Git, GitHub, and version control systems.
+I'm **Vael David, formerly David Effiong**, a passionate technology professional and lifelong learner who builds solutions at the intersection of **data, software engineering, and digital education**. This repo and others you’ll find here reflect my growth, experiments, open-source contributions, and documentation on Git, GitHub, and version control systems.
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="avatarDavid.png" width="600px" alt="David F. Effiong Cover"/>
-</p>
+</p> -->
 
 <p align ="center">Senior Data Analyst | Full-Stack Software Engineer | Author | Educator </p>
 
